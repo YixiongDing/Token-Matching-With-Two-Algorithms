@@ -1,0 +1,8 @@
+Author: Yixiong Ding, The University of Melbourne 
+Date: 6 September, 2017 
+
+Global_Edit_Distance.py: Using the Global Edit Distance to find the perfect match of "labelled-tokens.txt" strings in the "dict.txt", returns the statistcal results. Used "editdistance 0.3.1" library from Hiroyuki Tanaka (2016), other codes are written by Yixiong Ding.
+
+N-Gram.py: Using the N-Gram Distance to find the perfect match of "labelled-tokens.txt" strings in the "dict.txt", returns the statistcal results. Used "ngram 3.3.2" library from Graham Poulter (2017), other codes are written by Yixiong Ding.
+
+Count.py: Used to count the number of the different length strings in the "labelled-tokens.txt". All codes are written by Yixiong Ding.
