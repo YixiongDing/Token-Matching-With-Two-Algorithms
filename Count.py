@@ -1,3 +1,9 @@
+```
+Yixiong Ding, <yixiongd@student.unimelb.edu.au>
+4 September, 2018
+The University of Melbourne 
+```
+
 import ngram
 import sys
 
